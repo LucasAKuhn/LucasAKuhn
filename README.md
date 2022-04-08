@@ -20,4 +20,4 @@ WELCOME
 
 ## Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedIn' height='30'>](https://www.linkedin.com/in/lucasalankuhn/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedIn'>](https://www.linkedin.com/in/lucasalankuhn/)
