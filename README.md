@@ -1,8 +1,7 @@
 <h1 align="center"> Lucas Alan Kuhn </h1>
-<h2 align="center"> Desenvolvedor Front-End </h2>
 
 
-Lucas Alan Kuhn, nasci em Arroio do Meio, Rio Grande do Sul. Formado em Análise e desenvolvimento de sistemas, no Centro Universitário Internacional - UNINTER.
+Formado em Análise e desenvolvimento de sistemas, no Centro Universitário Internacional - UNINTER.
 Em 2017, realizei um intercâmbio em Dublin, capital da Irlanda, onde trabalhei e estudei por mais de dois anos. Retornei ao Brasil em setembro de 2019.
 Atualmente trabalho freelance, como Desenvolvedor Front-End, utilizando React.js | Next.js | Typescript.
 
