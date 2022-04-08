@@ -8,3 +8,8 @@ WELCOME
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasakuhn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Skills
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
