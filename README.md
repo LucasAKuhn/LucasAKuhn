@@ -1,4 +1,8 @@
-WELCOME
+<h1 align="center"> Welcome! </h1>
+
+Lucas Alan Kuhn, nasci em Arroio do Meio, Rio Grande do Sul. Formado em Análise e desenvolvimento de sistemas, no Centro Universitário Internacional - UNINTER.
+Em 2017, realizei um intercâmbio em Dublin, capital da Irlanda, onde trabalhei e estudei por mais de dois anos. Retornei ao Brasil em setembro de 2019.
+Atualmente trabalho freelance, como Desenvolvedor Front-End, utilizando React.js | Next.js | Typescript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasakuhn&show_icons=true&theme=radical)
 
