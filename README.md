@@ -1,9 +1,10 @@
 <h1 align="center"> Lucas Alan Kuhn </h1>
 
 
-Formado em Análise e desenvolvimento de sistemas, no Centro Universitário Internacional - UNINTER.
-Em 2017, realizei um intercâmbio em Dublin, capital da Irlanda, onde trabalhei e estudei por mais de dois anos. Retornei ao Brasil em setembro de 2019.
-Atualmente trabalho freelance, como Desenvolvedor Front-End, utilizando React.js | Next.js | Typescript.
+<p>Formado em Análise e desenvolvimento de sistemas, no Centro Universitário Internacional - UNINTER.</p>
+<p>Em 2017, realizei um intercâmbio em Dublin, capital da Irlanda, onde trabalhei e estudei por mais de dois anos. Retornei ao Brasil em setembro de 2019.</p>
+<p>Profissional, organizado, com facilidade para trabalhar em equipe e com forte senso de responsabilidade e comprometimento, interessado em trabalhar de modo a fazer a diferença. </p>
+<p>Atualmente trabalho freelance, como Desenvolvedor Front-End, utilizando React.js | Next.js | Typescript.</p>
 
 
 ## Skills
