@@ -24,6 +24,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=Paradoxo-de-Monty-Hall&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=REST-API-with-Axios&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=desafioClienteCompra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=minhasfinancas-api&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contato
 
