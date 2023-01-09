@@ -20,12 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasakuhn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=app-controle-financeiro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=Parking-control&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=campo-minado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasakuhn&repo=Be-The-Hero--Semana-Omnistack-11&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Contato
