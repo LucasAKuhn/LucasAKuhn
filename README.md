@@ -4,7 +4,7 @@
 <p>Formado em Análise e desenvolvimento de sistemas, no Centro Universitário Internacional - UNINTER.</p>
 <p>Em 2017, realizei um intercâmbio em Dublin, capital da Irlanda, onde trabalhei e estudei por mais de dois anos. Retornei ao Brasil em setembro de 2019.</p>
 <p>Profissional, organizado, com facilidade para trabalhar em equipe e com forte senso de responsabilidade e comprometimento, interessado em trabalhar de modo a fazer a diferença. </p>
-<p>Atualmente trabalho freelance para a empresa Authosoft Solutions, como Desenvolvedor Back-end com Java | Spring Boot.</p>
+<p>Atualmente atuo como desenvolvedor full stack Java/Angular na empresa Substractum Tecnologia.</p>
 
 
 ## Skills
