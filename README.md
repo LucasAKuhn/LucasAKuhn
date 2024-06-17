@@ -4,7 +4,7 @@
 <p>Formado em Análise e desenvolvimento de sistemas, no Centro Universitário Internacional - UNINTER.</p>
 <p>Em 2017, realizei um intercâmbio em Dublin, capital da Irlanda, onde trabalhei e estudei por mais de dois anos. Retornei ao Brasil em setembro de 2019.</p>
 <p>Profissional, organizado, com facilidade para trabalhar em equipe e com forte senso de responsabilidade e comprometimento, interessado em trabalhar de modo a fazer a diferença. </p>
-<p>Atualmente atuo como desenvolvedor full stack Java/Angular na empresa Substractum Tecnologia.</p>
+<p>Iniciei minha carreira profissional na área de vendas, mas em 2020 busquei uma recolocação na área de TI. Minha primeira experiência na área foi um estágio, onde adquiri conhecimentos práticos em suporte de TI e manutenção de computadores. Além disso, desenvolvi alguns projetos como freelancer, aprimorando minhas habilidades em desenvolvimento de software. Mais recentemente, atuei na migração de sistemas ligados à área da saúde, que lidam com grande volume de dados e que atendem a todo o Brasil.</p>
 
 
 ## Skills
